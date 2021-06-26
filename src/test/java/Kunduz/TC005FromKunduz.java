@@ -6,5 +6,7 @@ public class TC005FromKunduz {
 
         int a=5;
 
+        int b=10;
+
     }
 }
