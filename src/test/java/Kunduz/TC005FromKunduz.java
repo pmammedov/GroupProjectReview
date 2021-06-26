@@ -8,5 +8,8 @@ public class TC005FromKunduz {
 
         int b=10;
 
+        int sum=a+b;
+
+
     }
 }
